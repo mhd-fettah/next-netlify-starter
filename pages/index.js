@@ -17,7 +17,6 @@ export default function Home() {
         </p>
       </main>
 
-<template>
   <div class="feedback-form">
     <form
       netlify
@@ -41,7 +40,6 @@ export default function Home() {
       <button type="submit">Submit</button>
     </form>
   </div>
-</template>
 
       <Footer />
     </div>
